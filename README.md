@@ -1,7 +1,7 @@
 
 # myJsWeatherApp
 
-Weather Application developed in JSvanilla to get current weather forecasts
+Weather Application developed in JSvanilla to get current weather forecasts using openweathermap API.
 
 
 ## Tech Stack
@@ -19,15 +19,15 @@ Weather Application developed in JSvanilla to get current weather forecasts
 
 Clone the project locally : 
 ```bash
-git clone https://github.com/FaridAmimri/myWeatherApp.git
+git clone https://github.com/FaridAmimri/myJsWeatherApp.git
 ```
 
 Go to the project directory :
 ```bash
-cd myWeatherApp
+cd myJsWeatherApp
 ```
 
-In your terminal run the project using yarn or npm command (for ex) :
+In your terminal run the project by lauching live server :
 ```bash
 Go Live (Live server)
 ```
